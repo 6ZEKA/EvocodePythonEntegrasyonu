@@ -88,6 +88,6 @@ Derlenen indikatörü/stratejiyi Makinalı'ya kopyalamak için; `Examples\UsePyt
 
 Tüm adımlar başarılı olarak tamamlandığı zaman, indikatör/strateji Makinalı programında gözükecektir. İndikatörler, indikatör ekranında yer alacaktır.
 
-![image-20210707100722375](imgs\image-20210707100722375.png)
+<img src="imgs\image-20210707100722375.png" alt="image-20210707100722375" style="zoom:100%;" />
 
 Stratejilere ise, `Araçlar -> Strateji Yöneticisi` ile erişebilir.
